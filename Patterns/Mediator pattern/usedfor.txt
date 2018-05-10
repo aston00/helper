@@ -1,0 +1,2 @@
+USed for createing interface for what is called callins which are mediated object(посередницькі обєкти), 
+Ex: chatroomж

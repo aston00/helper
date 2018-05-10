@@ -1,0 +1,2 @@
+Allows us tp ssubscribe and unsubscribe to certain events or functioonalities.
+Can be used for notifying DOM fot updating certain elements( ANgular js relies on this pattern through event management scope)

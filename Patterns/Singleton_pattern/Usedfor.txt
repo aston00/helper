@@ -1,0 +1,3 @@
+A manifistation of the module patters. It is an imidiate call function and it can only return one instance of an object at a time.
+It maintaince a private refeprence which noithing from the outside can access
+Used for : EX: You want only one user object created at a time. Log in user.Prevent from 2 users being created at once.

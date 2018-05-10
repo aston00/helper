@@ -1,0 +1,3 @@
+A way of creating interface for creating object but we can let subclasses define what classes to instantiate.
+Often used in apps to maintain and manipulate object that are different but at the same time have common characteristics.
+Membership app ex.
